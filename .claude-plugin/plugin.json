@@ -1,0 +1,10 @@
+{
+  "name": "comprehension-gate",
+  "version": "0.1.0",
+  "description": "After Claude writes a meaningful chunk of code, asks you a quick question about why it works and locks further code-writing until you show you understand it.",
+  "author": {
+    "name": "Pranav Kalla"
+  },
+  "repository": "https://github.com/PRANAVKALLA230106/comprehension-gate",
+  "license": "MIT"
+}
