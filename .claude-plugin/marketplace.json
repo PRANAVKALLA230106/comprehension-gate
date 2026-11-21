@@ -1,0 +1,13 @@
+{
+  "name": "comprehension-gate",
+  "owner": {
+    "name": "Pranav Kalla"
+  },
+  "plugins": [
+    {
+      "name": "comprehension-gate",
+      "source": "./",
+      "description": "Quick understanding checks before Claude writes more code."
+    }
+  ]
+}
